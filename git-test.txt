@@ -1,3 +1,5 @@
 Belajar git di Github
 - belajar online dan memperhatikan kelas
 - aktif dalam forum diskusi
+- belajar automation
+- bisa mengikuti semua kelas dengan baik
